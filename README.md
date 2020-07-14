@@ -1,5 +1,4 @@
 # QKD
-Mini Quantum Key Distribution
 
 Mini QKD (QUANTUM KEY DISTRIBUTION)
  
