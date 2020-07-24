@@ -8,5 +8,7 @@ HARDWARE & SOFTWARE (Q-BLOCKLY)
 
 In development and functional tests...
 
+More information: www.openqbit.com
+
 
 
