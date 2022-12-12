@@ -2,7 +2,7 @@
 
 Mini QKD (QUANTUM KEY DISTRIBUTION)
  
-Date launch December 30, 2020
+Date launch December 30, 2023
 
 HARDWARE & SOFTWARE (Q-BLOCKLY)
 
